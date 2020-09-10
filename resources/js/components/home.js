@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 
-import ArticleIndex from './ArticleIndex';
+import ArticleIndex from './article/ArticleIndex';
 
 const drawerWidth = 240;
 

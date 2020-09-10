@@ -22,3 +22,8 @@ Route::view('/', 'app');
 Route::view('/{path}', 'app');
 
 
+Route::view('/student', 'app');
+Route::view('/student/edit/{id}', 'app');
+Route::view('/student/{id}', 'app');
+// Route::view('/', 'app');
+// Route::view('/{path}', 'app');

@@ -8,7 +8,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
  
-    <title>React Laravel</title>
+    <title>React x Laravel</title>
  
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
